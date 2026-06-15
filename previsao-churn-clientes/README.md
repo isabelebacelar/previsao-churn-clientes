@@ -1,7 +1,5 @@
 # Previsão de Churn de Clientes
 
-**Segundo projeto de portfólio - Nível Médio**
-
 Este projeto tem como objetivo prever quais clientes têm maior probabilidade de cancelar o serviço (churn) usando Machine Learning.
 
 ### O que fiz:
